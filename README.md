@@ -6,5 +6,5 @@ Após isso foi realizado a verificação e o tratamento dos outliers presentes, 
 2)Support Vector Regression (SVR) <br>
 3)XBoost Regressor <br> 
 
-Depois de avaliar os 3 modelos com as métricas de MSE (Mean Squared Error) e RMSE (Root Mean Squared Error), verificamos que o modelo que melhor perfomou foi o XGBoost, então foi realizada a otimização dos hiperparâmetros do modelo com o GridSearchCV
+Depois de avaliar os diferentes modelos com as métricas de MSE (Mean Squared Error) , RMSE (Root Mean Squared Error) e MAE (Mean Absolute Error), verificamos que o modelo que melhor perfomou foi o XGBoost, então foi realizada a otimização dos hiperparâmetros do modelo com o GridSearchCV
 
