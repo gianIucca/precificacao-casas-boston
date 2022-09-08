@@ -7,3 +7,4 @@ Após isso foi realizado a verificação e o tratamento dos outliers presentes, 
 3)Decision Tree Regresison (XGBoost) <br> 
 
 Depois de avaliar os 3 modelos com as métricas de MSE (Mean Squared Error) e RMSE (Root Mean Squared Error), verificamos que o modelo que melhor perfomou foi o XGBoost, então foi realizada a otimização dos hiperparâmetros do modelo com o GridSearchCV
+
